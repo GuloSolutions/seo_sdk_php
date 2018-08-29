@@ -2,7 +2,7 @@
     "name": "gulo-solutions/seo_sdk_php",
     "description": "Bazaar Voice SEO SDK",
     "keywords": ["BV SEO", "BV"],
-    "version": "3.21",
+    "version": "3.2.1",
     "license": "MIT",
     "type": "wordpress-plugin",
     "autoload": {
