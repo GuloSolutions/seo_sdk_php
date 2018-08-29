@@ -4,7 +4,7 @@
     "keywords": ["BV SEO", "BV"],
     "version": "3.2.1",
     "license": "MIT",
-    "type": "wordpress-plugin",
+    "type": "library",
     "autoload": {
         "files": [
             "bvseosdk.php"
